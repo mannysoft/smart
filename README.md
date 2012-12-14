@@ -1,4 +1,4 @@
-Smart DevNet PHP, Orignal Code from Smart PHP SDK
+Smart DevNet PHP, Original Code from Smart PHP SDK
 ==============================
 
 
